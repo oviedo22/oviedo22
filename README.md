@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @oviedo22
 - 👀 I’m interested in Web Develop
-- 🌱 I’m currently learning .net framework/core & django
+- 🌱 I’m currently working Next.js & Typescript
 - 📫 How to reach me : franco_oviedo_12@hotmail.com
