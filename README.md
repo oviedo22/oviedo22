@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @oviedo22
 - 👀 I’m interested in Web Develop
-- 🌱 I’m currently working Next.js & Typescript
+- 🌱 I’m currently working with Django/React/Redis/Celery
 - 📫 How to reach me : franco_oviedo_12@hotmail.com
